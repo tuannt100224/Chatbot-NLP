@@ -1,0 +1,77 @@
+[
+    {
+        "nam_hoc": "2023-2024",
+        "hoc_ky": "2",
+        "hoc_phi": {
+            "don_vi": "VND/tín chỉ",
+            "chi_tiet": {
+                "xay_dung": 340000,
+                "dai_hoc": 385000
+            }
+        },
+        "text": "Ngành xây dựng là 340,000 VND/tín chỉ. Học phí năm học 2023-2024 học kỳ 2 hệ đại học là 385,000 VND/tín chỉ."
+    },
+    {
+        "nam_hoc": "2024-2025",
+        "hoc_ky": "2",
+        "hoc_phi": {
+            "don_vi": "VND/tín chỉ",
+            "chi_tiet": {
+                "cao_hoc": 820000,
+                "dai_hoc": 480000,
+                "xay_dung": 450000
+            }
+        },
+        "text": "Hệ cao học là 820,000 VND/tín chỉ. Học phí năm học 2024-2025 học kỳ 2 hệ đại học là 480,000 VND/tín chỉ. Ngành xây dựng là 450,000 VND/tín chỉ."
+    },
+    {
+        "nam_hoc": "2025-2026",
+        "hoc_ky": "1",
+        "hoc_phi": {
+            "don_vi": "VND/tín chỉ",
+            "chi_tiet": {
+                "cao_hoc": 925000,
+                "dai_hoc": 550000,
+                "xay_dung": 500000
+            }
+        },
+        "text": "Hệ cao học là 925,000 VND/tín chỉ. Học phí năm học 2025-2026 học kỳ 1 hệ đại học là 550,000 VND/tín chỉ. Ngành xây dựng là 500,000 VND/tín chỉ."
+    },
+    {
+        "nam_hoc": "2024-2025",
+        "hoc_ky": "1",
+        "hoc_phi": {
+            "don_vi": "VND/tín chỉ",
+            "chi_tiet": {
+                "xay_dung": 450000,
+                "dai_hoc": 480000
+            }
+        },
+        "text": "Ngành xây dựng là 450,000 VND/tín chỉ. Học phí năm học 2024-2025 học kỳ 1 hệ đại học là 480,000 VND/tín chỉ."
+    },
+    {
+        "nam_hoc": "2025-2026",
+        "hoc_ky": "2",
+        "hoc_phi": {
+            "don_vi": "VND/tín chỉ",
+            "chi_tiet": {
+                "cao_hoc": 925000,
+                "dai_hoc": 550000,
+                "xay_dung": 500000
+            }
+        },
+        "text": "Hệ cao học là 925,000 VND/tín chỉ. Học phí năm học 2025-2026 học kỳ 2 hệ đại học là 550,000 VND/tín chỉ. Ngành xây dựng là 500,000 VND/tín chỉ."
+    },
+    {
+        "nam_hoc": "2023-2024",
+        "hoc_ky": "3",
+        "hoc_phi": {
+            "don_vi": "VND/tín chỉ",
+            "chi_tiet": {
+                "xay_dung": 340000,
+                "dai_hoc": 385000
+            }
+        },
+        "text": "Ngành xây dựng là 340,000 VND/tín chỉ. Học phí năm học 2023-2024 học kỳ 3 hệ đại học là 385,000 VND/tín chỉ."
+    }
+]

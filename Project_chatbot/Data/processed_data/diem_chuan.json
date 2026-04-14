@@ -1,0 +1,538 @@
+[
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2023,
+        "diem_chuan": 18.2,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2023 có điểm chuẩn là 18.2, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2023,
+        "diem_chuan": 18.2,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2023 có điểm chuẩn là 18.2, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2023,
+        "diem_chuan": 16.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điện năm 2023 có điểm chuẩn là 16.5, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2023,
+        "diem_chuan": 17.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2023 có điểm chuẩn là 17.5, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2023,
+        "diem_chuan": 15.75,
+        "to_hop": "A00, A01, C01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật xây dựng năm 2023 có điểm chuẩn là 15.75, xét tổ hợp A00, A01, C01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kinh tế xây dựng",
+        "nam": 2023,
+        "diem_chuan": 15.75,
+        "to_hop": "A00, A01, C01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kinh tế xây dựng năm 2023 có điểm chuẩn là 15.75, xét tổ hợp A00, A01, C01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2024,
+        "diem_chuan": 18.2,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2024 có điểm chuẩn là 18.2, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2024,
+        "diem_chuan": 18.2,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2024 có điểm chuẩn là 18.2, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật ô tô",
+        "nam": 2024,
+        "diem_chuan": 17.75,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Công nghệ kỹ thuật ô tô năm 2024 có điểm chuẩn là 17.75, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2024,
+        "diem_chuan": 16.7,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điện năm 2024 có điểm chuẩn là 16.7, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2024,
+        "diem_chuan": 17.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2024 có điểm chuẩn là 17.5, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2024,
+        "diem_chuan": 15.75,
+        "to_hop": "A00, A01, C01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật xây dựng năm 2024 có điểm chuẩn là 15.75, xét tổ hợp A00, A01, C01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2025,
+        "diem_chuan": 784.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2025 có điểm chuẩn là 784.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật ô tô",
+        "nam": 2025,
+        "diem_chuan": 800.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Công nghệ kỹ thuật ô tô năm 2025 có điểm chuẩn là 800.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật điện, điện tử",
+        "nam": 2025,
+        "diem_chuan": 728.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Công nghệ kỹ thuật điện, điện tử năm 2025 có điểm chuẩn là 728.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật điện, điện tử",
+        "nam": 2025,
+        "diem_chuan": 962.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Công nghệ kỹ thuật điện, điện tử năm 2025 có điểm chuẩn là 962.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2025,
+        "diem_chuan": 688.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Kỹ thuật điện năm 2025 có điểm chuẩn là 688.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2025,
+        "diem_chuan": 740.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2025 có điểm chuẩn là 740.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2025,
+        "diem_chuan": 640.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Kỹ thuật xây dựng năm 2025 có điểm chuẩn là 640.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2025,
+        "diem_chuan": 22.05,
+        "to_hop": "",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2025 có điểm chuẩn là 22.05, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật ô tô",
+        "nam": 2025,
+        "diem_chuan": 22.5,
+        "to_hop": "",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Công nghệ kỹ thuật ô tô năm 2025 có điểm chuẩn là 22.5, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật điện, điện tử",
+        "nam": 2025,
+        "diem_chuan": 20.47,
+        "to_hop": "",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Công nghệ kỹ thuật điện, điện tử năm 2025 có điểm chuẩn là 20.47, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật điện, điện tử",
+        "nam": 2025,
+        "diem_chuan": 24.64,
+        "to_hop": "",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Công nghệ kỹ thuật điện, điện tử năm 2025 có điểm chuẩn là 24.64, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2025,
+        "diem_chuan": 19.35,
+        "to_hop": "",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điện năm 2025 có điểm chuẩn là 19.35, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2025,
+        "diem_chuan": 20.81,
+        "to_hop": "",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2025 có điểm chuẩn là 20.81, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2025,
+        "diem_chuan": 18.3,
+        "to_hop": "",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật xây dựng năm 2025 có điểm chuẩn là 18.3, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2021,
+        "diem_chuan": 18.0,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2021 có điểm chuẩn là 18.0, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2021,
+        "diem_chuan": 18.0,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2021 có điểm chuẩn là 18.0, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2021,
+        "diem_chuan": 16.25,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điện năm 2021 có điểm chuẩn là 16.25, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2021,
+        "diem_chuan": 18.0,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2021 có điểm chuẩn là 18.0, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2022,
+        "diem_chuan": 20.0,
+        "to_hop": "A00, A01, D01, XDHB",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2022 có điểm chuẩn là 20.0, xét tổ hợp A00, A01, D01, XDHB, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2022,
+        "diem_chuan": 20.0,
+        "to_hop": "A00, A01, D01, XDHB",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2022 có điểm chuẩn là 20.0, xét tổ hợp A00, A01, D01, XDHB, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2022,
+        "diem_chuan": 19.5,
+        "to_hop": "A00, A01, D01, XDHB",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điện năm 2022 có điểm chuẩn là 19.5, xét tổ hợp A00, A01, D01, XDHB, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2022,
+        "diem_chuan": 19.5,
+        "to_hop": "A00, A01, D01, XDHB",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2022 có điểm chuẩn là 19.5, xét tổ hợp A00, A01, D01, XDHB, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2022,
+        "diem_chuan": 18.25,
+        "to_hop": "A00, A01, D01, XDHB",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật xây dựng năm 2022 có điểm chuẩn là 18.25, xét tổ hợp A00, A01, D01, XDHB, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kinh tế xây dựng",
+        "nam": 2022,
+        "diem_chuan": 18.25,
+        "to_hop": "A00, A01, C01, D01, XDHB",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kinh tế xây dựng năm 2022 có điểm chuẩn là 18.25, xét tổ hợp A00, A01, C01, D01, XDHB, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2024,
+        "diem_chuan": 20.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2024 có điểm chuẩn là 20.5, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2024,
+        "diem_chuan": 20.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2024 có điểm chuẩn là 20.5, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2024,
+        "diem_chuan": 20.0,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điện năm 2024 có điểm chuẩn là 20.0, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2024,
+        "diem_chuan": 20.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2024 có điểm chuẩn là 20.5, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2024,
+        "diem_chuan": 18.5,
+        "to_hop": "A00, A01, C01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật xây dựng năm 2024 có điểm chuẩn là 18.5, xét tổ hợp A00, A01, C01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật ô tô",
+        "nam": 2024,
+        "diem_chuan": 20.0,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Công nghệ kỹ thuật ô tô năm 2024 có điểm chuẩn là 20.0, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2024,
+        "diem_chuan": 660.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2024 có điểm chuẩn là 660.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2024,
+        "diem_chuan": 660.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2024 có điểm chuẩn là 660.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2024,
+        "diem_chuan": 660.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Kỹ thuật điện năm 2024 có điểm chuẩn là 660.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2024,
+        "diem_chuan": 660.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2024 có điểm chuẩn là 660.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2024,
+        "diem_chuan": 660.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Kỹ thuật xây dựng năm 2024 có điểm chuẩn là 660.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật ô tô",
+        "nam": 2024,
+        "diem_chuan": 660.0,
+        "to_hop": "",
+        "phuong_thuc": "ĐGNL",
+        "text": "Ngành Công nghệ kỹ thuật ô tô năm 2024 có điểm chuẩn là 660.0, theo phương thức ĐGNL."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2022,
+        "diem_chuan": 18.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2022 có điểm chuẩn là 18.5, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2022,
+        "diem_chuan": 18.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2022 có điểm chuẩn là 18.5, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2022,
+        "diem_chuan": 16.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điện năm 2022 có điểm chuẩn là 16.5, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2022,
+        "diem_chuan": 17.5,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2022 có điểm chuẩn là 17.5, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2022,
+        "diem_chuan": 15.75,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật xây dựng năm 2022 có điểm chuẩn là 15.75, xét tổ hợp A00, A01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kinh tế xây dựng",
+        "nam": 2022,
+        "diem_chuan": 15.75,
+        "to_hop": "A00, A01, C01, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kinh tế xây dựng năm 2022 có điểm chuẩn là 15.75, xét tổ hợp A00, A01, C01, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2025,
+        "diem_chuan": 19.6,
+        "to_hop": "A00, A01, C01, D01, X07, X26",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2025 có điểm chuẩn là 19.6, xét tổ hợp A00, A01, C01, D01, X07, X26, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật ô tô",
+        "nam": 2025,
+        "diem_chuan": 20.0,
+        "to_hop": "A00, A01, A10, C01, D01, X05, X07",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Công nghệ kỹ thuật ô tô năm 2025 có điểm chuẩn là 20.0, xét tổ hợp A00, A01, A10, C01, D01, X05, X07, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật điện, điện tử",
+        "nam": 2025,
+        "diem_chuan": 18.2,
+        "to_hop": "A00, A01, C01, C02, D01, X07",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Công nghệ kỹ thuật điện, điện tử năm 2025 có điểm chuẩn là 18.2, xét tổ hợp A00, A01, C01, C02, D01, X07, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Công nghệ kỹ thuật điện, điện tử",
+        "nam": 2025,
+        "diem_chuan": 24.05,
+        "to_hop": "A00, A01, C01, C02, D01, X07",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Công nghệ kỹ thuật điện, điện tử năm 2025 có điểm chuẩn là 24.05, xét tổ hợp A00, A01, C01, C02, D01, X07, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2025,
+        "diem_chuan": 17.2,
+        "to_hop": "A00, A01, C01, C02, D01, X07",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điện năm 2025 có điểm chuẩn là 17.2, xét tổ hợp A00, A01, C01, C02, D01, X07, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2025,
+        "diem_chuan": 18.5,
+        "to_hop": "A00, A01, C01, C02, D01, X07",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2025 có điểm chuẩn là 18.5, xét tổ hợp A00, A01, C01, C02, D01, X07, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2025,
+        "diem_chuan": 16.0,
+        "to_hop": "A00, A01, A04, C01, C02, D01",
+        "phuong_thuc": "Thi THPT",
+        "text": "Ngành Kỹ thuật xây dựng năm 2025 có điểm chuẩn là 16.0, xét tổ hợp A00, A01, A04, C01, C02, D01, theo phương thức Thi THPT."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2023,
+        "diem_chuan": 20.1,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2023 có điểm chuẩn là 20.1, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Khoa học dữ liệu và trí tuệ nhân tạo",
+        "nam": 2023,
+        "diem_chuan": 20.1,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Khoa học dữ liệu và trí tuệ nhân tạo năm 2023 có điểm chuẩn là 20.1, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điện",
+        "nam": 2023,
+        "diem_chuan": 19.6,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điện năm 2023 có điểm chuẩn là 19.6, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật điều khiển và tự động hóa",
+        "nam": 2023,
+        "diem_chuan": 19.6,
+        "to_hop": "A00, A01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật điều khiển và tự động hóa năm 2023 có điểm chuẩn là 19.6, xét tổ hợp A00, A01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kỹ thuật xây dựng",
+        "nam": 2023,
+        "diem_chuan": 18.3,
+        "to_hop": "A00, A01, C01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kỹ thuật xây dựng năm 2023 có điểm chuẩn là 18.3, xét tổ hợp A00, A01, C01, D01, theo phương thức Xét học bạ."
+    },
+    {
+        "ten_nganh": "Kinh tế xây dựng",
+        "nam": 2023,
+        "diem_chuan": 18.3,
+        "to_hop": "A00, A01, C01, D01",
+        "phuong_thuc": "Xét học bạ",
+        "text": "Ngành Kinh tế xây dựng năm 2023 có điểm chuẩn là 18.3, xét tổ hợp A00, A01, C01, D01, theo phương thức Xét học bạ."
+    }
+]
